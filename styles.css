@@ -1,0 +1,57 @@
+/*  Shutterbugg Bootstrap Project 
+	Author: Serghie
+	Date: 06/22/2020 */
+
+.container {
+	max-width: 968px;
+}
+
+.main {
+	background-image: url("../sbugg_images/intro.jpg");
+	background-size: cover;
+	height: 600px;
+	background-attachment: fixed;
+	padding-top: 30px;
+}
+
+.main h1 {
+	font-family: "Gruppo", sans-serif;
+	font-size: 5em;
+	text-shadow: black 3px 3px 15px;
+}
+
+.main h2 {
+	font-family: "Mallana" , sans-serif;
+	font-size: 2em;
+	margin-bottom: 25px;
+}
+
+.btn {
+	background-color: gray;
+	color: white; 
+	border-radius: 30px;
+	font-size:1.5em;
+	padding: 5px 25px;
+}
+
+.section .row {
+	padding-top: 40px;
+}
+
+.row h1 {
+	font-family: "Carrois Gothic SC" , sans-serif;
+}
+
+.row p {
+	font-family: "Mallana" , sans-serif;
+	font-size: 1.1em;
+}
+
+#store {
+	text-align: center;
+	padding: 50px 30px 10px 30px;
+}
+
+hr {
+	background-color: gray;
+ }
